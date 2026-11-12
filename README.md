@@ -25,14 +25,24 @@ I'm a student with a strong curiosity for mathematics, science, and the deeper s
 - 🔭 Currently developing **[MATHEMATICA-X](https://github.com/AslaniArtemis9/MATHEMATICA-X)**
 - 🧮 Interested in mathematical logic, calculus, and numerical methods
 - 🌌 Fascinated by astronomy, astrophysics, and computational physics
+- 🏛️ Deeply interested in philosophy, especially philosophy of mathematics, science, logic, and the nature of knowledge
 - 🐍 Exploring Python and scientific programming
 - 📚 Always learning, questioning, and building
 
 ## 🔬 Areas of Interest
 
 <p>
+  <img src="https://img.shields.io/badge/Philosophy-8A5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Philosophy_of_Science-8A5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Philosophy_of_Mathematics-8A5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Epistemology-8A5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metaphysics-8A5CF6?style=flat-square" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Mathematics-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Mathematical_Logic-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Philosophy_of_Mathematics-8A5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Calculus-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Numerical_Analysis-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Astronomy-182848?style=flat-square" />
