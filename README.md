@@ -24,7 +24,7 @@ I'm a student with a strong curiosity for mathematics, science, and the deeper s
 
 - 🔭 Currently developing **[MATHEMATICA-X](https://github.com/AslaniArtemis9/MATHEMATICA-X)**
 - 🧮 Interested in mathematical logic, calculus, and numerical methods
-- 🌌 Fascinated by astronomy, astrophysics, and computational physics
+- 🌌 Fascinated by astronomy, astrophysics, cosmology, and computational physics
 - 🏛️ Deeply interested in philosophy, especially philosophy of mathematics, science, logic, and the nature of knowledge
 - 🐍 Exploring Python and scientific programming
 - 📚 Always learning, questioning, and building
@@ -47,6 +47,7 @@ I'm a student with a strong curiosity for mathematics, science, and the deeper s
   <img src="https://img.shields.io/badge/Numerical_Analysis-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Astronomy-182848?style=flat-square" />
   <img src="https://img.shields.io/badge/Astrophysics-182848?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cosmology-182848?style=flat-square" />
   <img src="https://img.shields.io/badge/Computational_Physics-182848?style=flat-square" />
 </p>
 
